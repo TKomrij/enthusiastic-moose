@@ -12,11 +12,6 @@ void Main()
     MooseSays("H I, I'M  E N T H U S I A S T I C !");
     MooseSays("I really am enthusiastic");
 
-    // As a question
-    // CanadaQuestion();
-    // EnthusiasticQuestion();
-    // LoveCSharpQuestion();
-    // SecretQuestion();
 
     MooseQuestions("Are you enthusiastic?", "Yay!", "You should try it!");
     MooseQuestions("Do you love C# yet?", "Good job sucking up to your instructor!", "You will...oh, yes, you will...");
